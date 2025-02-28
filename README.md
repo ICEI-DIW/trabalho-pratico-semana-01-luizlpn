@@ -3,9 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
+Nome: Luiz Paulo Franco Neto
+Matricula: 889953
 
 ## Tela de inspeção com navegador
-
+![Inspeção de Conexão](Capturar.PNG)
 
 ## Tela de projeto no Replit
-
+![Página no Replit](Captura2.PNG) 
